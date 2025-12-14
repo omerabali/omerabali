@@ -1,7 +1,7 @@
 ![Masterhead](https://media.licdn.com/dms/image/v2/D4D16AQFl1n83KnzK1A/profile-displaybackgroundimage-shrink_350_1400/B4DZrCA081GwAY-/0/1764191590395?e=1766016000&v=beta&t=wAwLGvrfZgO3pf_FMRkw_K2SYrYmzOcteEZhJwyAhf4)
 
 <h1 align="center">Hi 👋, I'm Ömer ABALI</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate software developer from Turkey</h3>
 
 - 🔭 I’m currently working on **Hotel Reservation System**
 
