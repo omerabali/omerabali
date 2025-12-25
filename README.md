@@ -1,36 +1,50 @@
-<img src="https://raw.githubusercontent.com/omerbali/omerbali/main/header.jpg" width="100%" alt="Header" />
+<div align="center">
+  <img src="headher.jpg" width="100%" alt="Ömer Abalı Header" />
 
-<h1 align="center">Hi 👋, I'm Ömer Abalı</h1>
-<h3 align="center">A passionate software developer from Turkey</h3>
+  <h1>Hi 👋, I'm Ömer ABALI</h1>
+  
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=Software+Engineering+Student;AI+and+Data+Analytics+Enthusiast;Passionate+Developer+from+Turkey" alt="Typing SVG" />
 
-- 🔭 I’m currently working on **Hotel Reservation System**
-- 🌱 I’m currently learning **Machine Learning**
-- 💬 Ask me about **Python, Java, C#**
-- 📫 How to reach me: **omerabali09@gmail.com**
+  <p><i>Kırklareli University | Software Engineering Student</i></p>
+</div>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+---
+
+### 👨‍💻 Hakkımda
+
+* 🔭 **Güncel Proje:** Kapsamlı bir **Hotel Reservation System** üzerinde çalışıyorum.
+* 🌱 **Öğrenim:** **Machine Learning** ve İleri Seviye Yapay Zeka modellerine odaklanıyorum.
+* 💬 **Uzmanlık:** **Python, Java, C#** ve Backend mimarileri hakkında soru sorabilirsiniz.
+* 📫 **İletişim:** [omerabali09@gmail.com](mailto:omerabali09@gmail.com)
+
+---
+
+### 🛠️ Teknolojiler ve Araçlar
+
+<div align="center">
+
+| Alan | Araçlar |
+| :--- | :--- |
+| **Diller** | ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white) ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) |
+| **Veritabanı** | ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![MSSQL](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft-sql-server&logoColor=white) |
+| **Geliştirme** | ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563d7c.svg?style=for-the-badge&logo=bootstrap&logoColor=white) |
+
+</div>
+
+### 🤝 Sosyal Medya
+
+<div align="center">
   <a href="https://www.linkedin.com/in/omerabali" target="_blank">
-    <img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="LinkedIn"
-      height="30"
-      width="40" />
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" width="40"/>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" width="40"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=omerbali&show_icons=true&theme=dark" height="160"/>
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=omerbali&layout=compact&theme=dark" height="160"/>
-</p>
+  <a href="mailto:omerabali09@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+</div>
+
+<br />
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=omerbali&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
+</div>
