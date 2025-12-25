@@ -1,4 +1,6 @@
-![Masterhead](https://media.licdn.com/dms/image/v2/D4D16AQFl1n83KnzK1A/profile-displaybackgroundimage-shrink_350_1400/B4DZrCA081GwAY-/0/1764191590395?e=1766016000&v=beta&t=wAwLGvrfZgO3pf_FMRkw_K2SYrYmzOcteEZhJwyAhf4)
+<img src="https://raw.githubusercontent.com/omerbali/omerbali/main/headher.jpg" width="100%" alt="Header" />
+
+
 
 <h1 align="center">Hi 👋, I'm Ömer ABALI</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
