@@ -41,15 +41,22 @@
 </div>
 <br/>
 
+### 🐍 Contribution Snake
+<div align="center">
+  <img src="https://raw.githubusercontent.com/omerabali/omerabali/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
+</div>
+
 ### 🤝 Sosyal Medya
 
 <div align="center">
   <a href="https://www.linkedin.com/in/omerabali" target="_blank">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
-  &nbsp;&nbsp;
   <a href="mailto:omerabali09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
+  </a>
+  <a href="https://github.com/omerabali" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
 </div>
 
