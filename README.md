@@ -31,20 +31,7 @@
 
 </div>
 
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omerabali&theme=radical" alt="ygtarda stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omerabali&theme=radical" alt="ygtarda languages" />
-  
-  <br/>
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omerabali&theme=radical" alt="ygtarda profile details" />
-</div>
-<br/>
 
-### 🐍 Contribution Snake
-<div align="center">
-  <img src="https://raw.githubusercontent.com/omerabali/omerabali/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</div>
 
 ### 🤝 Sosyal Medya
 
