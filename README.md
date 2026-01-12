@@ -31,7 +31,15 @@
 
 </div>
 
-
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=omerabali&theme=radical" alt="omerabali stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=omerabali&theme=radical" alt="omerabali languages" />
+  
+  <br/>
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=omerabali&theme=radical" alt="omerabali profile details" />
+</div>
+<br/>
 
 ### 🤝 Sosyal Medya
 
