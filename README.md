@@ -72,17 +72,17 @@ Yönetim paneli olan, React arayüzü ve FastAPI backend ile ayrı servisler ola
 </div>
 <br/>
 
-### 🤝 Sosyal Medya
+### 🤝 İletişim
 
 <div align="center">
+  <a href="https://omerabali.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolyo-4F46E5?style=for-the-badge&logo=googlechrome&logoColor=white" height="35" />
+  </a>
   <a href="https://www.linkedin.com/in/omerabali" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="35" />
   </a>
   <a href="mailto:omerabali09@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="35" />
-  </a>
-  <a href="https://github.com/omerabali" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="35" />
   </a>
 </div>
 
