@@ -88,6 +88,3 @@ Yönetim paneli olan, React arayüzü ve FastAPI backend ile ayrı servisler ola
 
 <br />
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=omerabali&label=Profile%20Views&color=0e75b6&style=flat" alt="Views" />
-</div>
